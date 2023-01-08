@@ -1,0 +1,22 @@
+// theme colors
+$primary: #326dee;
+$secondary: #1ac888;
+$error: #d32752;
+$info: #f6c31c;
+
+// spacing
+$base-padding: .75rem;
+$base-margin: .75rem;
+
+// borders
+$base-border-thickness: 1px;
+$base-border-radius: 20px;
+
+// shadows
+$base-border-shadow: 1px 3px 5px rgba(0,0,0,.1);
+
+// font sizes
+$base-font-size: 1rem;
+$font-size-sm: $base-font-size * .75;
+$font-size-lg: $base-font-size * 1.5;
+$font-size-xl: $base-font-size * 2;
